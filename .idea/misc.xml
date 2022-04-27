@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/ZOE/APP/BIGPIX/bancozoe2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3655" />
+        <entry key="..\:/ZOE/APP/BIGPIX/bancozoe2/app/src/main/res/drawable/aredondadoacessar.xml" value="0.196" />
+        <entry key="..\:/ZOE/APP/BIGPIX/bancozoe2/app/src/main/res/drawable/arendodadoiptu.xml" value="0.269" />
+        <entry key="..\:/ZOE/APP/BIGPIX/bancozoe2/app/src/main/res/drawable/arendondado_incial.xml" value="0.2505" />
+        <entry key="..\:/ZOE/APP/BIGPIX/bancozoe2/app/src/main/res/drawable/botaodebaixoalpha.xml" value="0.264" />
+        <entry key="..\:/ZOE/APP/BIGPIX/bancozoe2/app/src/main/res/drawable/ic_pix_background.xml" value="0.2505" />
+        <entry key="..\:/ZOE/APP/BIGPIX/bancozoe2/app/src/main/res/drawable/icone_pix_background.xml" value="0.2505" />
+        <entry key="..\:/ZOE/APP/BIGPIX/bancozoe2/app/src/main/res/layout/activity_inicial.xml" value="0.22" />
+        <entry key="..\:/ZOE/APP/BIGPIX/bancozoe2/app/src/main/res/layout/activity_inicialpix.xml" value="0.25" />
+        <entry key="..\:/ZOE/APP/BIGPIX/bancozoe2/app/src/main/res/layout/activity_main.xml" value="0.75" />
+        <entry key="..\:/ZOE/APP/BIGPIX/bancozoe2/app/src/main/res/layout/activity_paginabigpix.xml" value="0.5" />
+        <entry key="..\:/ZOE/APP/BIGPIX/bancozoe2/app/src/main/res/layout/activity_paginabigsaf.xml" value="0.371875" />
+        <entry key="..\:/ZOE/APP/BIGPIX/bancozoe2/app/src/main/res/layout/activity_paginaboleto.xml" value="0.36615384615384616" />
+        <entry key="..\:/ZOE/APP/BIGPIX/bancozoe2/app/src/main/res/layout/activity_paginaescolafaculdade.xml" value="0.36615384615384616" />
+        <entry key="..\:/ZOE/APP/BIGPIX/bancozoe2/app/src/main/res/layout/activity_paginaiptu.xml" value="0.371875" />
+        <entry key="..\:/ZOE/APP/BIGPIX/bancozoe2/app/src/main/res/layout/activity_paginaipva.xml" value="0.36615384615384616" />
+        <entry key="..\:/ZOE/APP/BIGPIX/bancozoe2/app/src/main/res/layout/activity_paginamaterialescolar.xml" value="0.36615384615384616" />
+        <entry key="..\:/ZOE/APP/BIGPIX/bancozoe2/app/src/main/res/layout/activity_paginaqrcode.xml" value="0.36615384615384616" />
+        <entry key="..\:/ZOE/APP/BIGPIX/bancozoe2/app/src/main/res/layout/activity_paginaseguro.xml" value="0.3578125" />
+        <entry key="..\:/ZOE/APP/BIGPIX/bancozoe2/app/src/main/res/layout/activity_paginaseguropequeno.xml" value="0.36615384615384616" />
+        <entry key="..\:/ZOE/APP/BIGPIX/bancozoe2/app/src/main/res/layout/activity_paginaviagem.xml" value="0.3578125" />
+        <entry key="..\:/ZOE/APP/BIGPIX/bancozoe2/app/src/main/res/layout/activity_registrousuario.xml" value="0.5" />
+        <entry key="..\:/ZOE/APP/BIGPIX/bancozoe2/app/src/main/res/layout/activity_tela_registro.xml" value="0.371875" />
+        <entry key="..\:/ZOE/APP/BIGPIX/bancozoe2/app/src/main/res/layout/activity_telaregistro.xml" value="0.33" />
+        <entry key="..\:/ZOE/APP/BIGPIX/bancozoe2/app/src/main/res/layout/content_tela_registro.xml" value="0.371875" />
+        <entry key="..\:/ZOE/APP/BIGPIX/bancozoe2/app/src/main/res/layout/fragment_first.xml" value="0.371875" />
+        <entry key="..\:/ZOE/APP/BIGPIX/bancozoe2/app/src/main/res/layout/fragment_second.xml" value="0.371875" />
+        <entry key="..\:/ZOE/APP/BIGPIX/bancozoe2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

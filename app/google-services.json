@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "648259169106",
+    "project_id": "bancozoe-a0cda",
+    "storage_bucket": "bancozoe-a0cda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648259169106:android:7dd8f12ebb5a47ec91a88b",
+        "android_client_info": {
+          "package_name": "com.example.bancozoe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648259169106-mr531729844a2crljdpkf2druc7v8c4m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpgvHPLPVACsajkc2MJfzPnSI2RqmfDps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648259169106-mr531729844a2crljdpkf2druc7v8c4m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
